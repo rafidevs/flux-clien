@@ -3,6 +3,8 @@
         "username": "yourusername",
         "password": "yourpassword",
         "expiry": "2025-12-31",
-        "hwid": []
+        "hwid": [
+            "127913739223720"
+        ]
     }
 ]
